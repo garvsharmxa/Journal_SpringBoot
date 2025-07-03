@@ -20,7 +20,7 @@ A simple **End-to-End Encrypted (E2EE) Journal App** built with Spring Boot. Thi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/journalApp.git
+git clone https://github.com/garvsharmxa/journalApp.git
 cd journalApp
 ```
 
