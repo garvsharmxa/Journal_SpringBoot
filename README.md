@@ -113,4 +113,4 @@ Pull requests and stars are welcome! For major changes, please open an issue fir
 
 ## Author
 
-- [Your Name](https://github.com/<your-username>)
+- [Garv Sharma](https://github.com/garvsharmxa)
